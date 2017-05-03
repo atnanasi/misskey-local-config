@@ -2,7 +2,7 @@
 For misskey
 
 # How to use
-1. Run `git clone https://github.com/atnanasi/misskey-local-config.git ~/.mikutter`
+1. Run `git clone https://github.com/atnanasi/misskey-local-config.git ~/.misskey`
 2. Set `/etc/hosts`
 
 # Hosts
